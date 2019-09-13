@@ -1,0 +1,4 @@
+{
+    "zlibCompression": false, 
+    "alsoDownloadThumbnails": true
+}
